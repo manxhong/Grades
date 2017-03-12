@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{2EBCB670-5EC3-4DED-A72E-40C38356C538}|Default">
   <MonoDevelop.Ide.ItemProperties.Grades PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Grades/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Grades Status">
     <Files>
-      <File FileName="Grades/Program.cs" Line="12" Column="2" />
+      <File FileName="Grades/Program.cs" Line="9" Column="4" />
+      <File FileName="Grades/GradeBook.cs" Line="8" Column="4" />
+      <File FileName="Grades Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
